@@ -8,7 +8,7 @@ A meticulously documented repository tracking my core computer science foundatio
     *   📄 `linear_and_binary_search.ipynb`: A comprehensive master notebook containing algorithm explanations, edge-case traces (tiny, duplicate, and empty arrays), execution boundary reviews, and strict $\mathcal{O}(\log N)$ binary partitioning solutions.
     *   📷 `leetcode_proof.png`: Verified visual execution proof of production-grade solution metrics.
 *   📁 **`Object_Oriented_Programming/`**
-    *   📄 `02_OOP_Basics.ipynb`: **[Complete]** Detailed architectural logs tracking class instantiation states, constructor initialization mechanics (`__init__`), instance variable binding (`self`), memory allocation layouts, and the 4 primary pillars of OOP design.
+    *   📄 `02_OOP_Basics.ipynb`: **[Complete]** Detailed architectural logs tracking class blueprints, constructor initialization mechanics (`__init__`), instance variable binding (`self`), memory allocation layouts, and the 4 primary pillars of OOP design.
 
 ## 🎯 Key Milestones Achieved
 
@@ -19,7 +19,7 @@ A meticulously documented repository tracking my core computer science foundatio
 
 *   **Complexity Optimization Matrix:** Successfully isolated and eliminated linear neighbor scanning traps ($\mathcal{O}(N)$ algorithmic decay vulnerabilities) within duplicate blocks, refactoring code cells using a decoupled tracking register pattern to preserve an absolute $\mathcal{O}(\log N)$ worst-case performance threshold.
 
-*   **Object-Oriented Architecture Paradigm:** Deconstructed the core object execution principles including **Encapsulation, Inheritance, Polymorphism, and Abstraction**. Formulated custom mock models (e.g., Network Packet and Blockchain Block architectures) to act as a direct syntactic bridge toward managing low-level dynamic memory layouts in advanced data structures.
+*   **Object-Oriented Architecture Paradigm:** Deconstructed the core object execution mechanics including **Encapsulation, Inheritance, Polymorphism, and Abstraction**. Mastered instance-level variable mapping and constructor state assignment to prepare for custom dynamic data structures.
 
 ---
 *Maintained with pride by a B.Tech CSE Hons (Cybersecurity & Blockchain) Student at LPU, integrated with CompTIA technical pathways.*
